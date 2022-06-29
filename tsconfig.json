@@ -23,21 +23,6 @@
       "@/*": [
         "./src/*"
       ],
-      "@components/*": [
-        "./src/components/*"
-      ],
-      "@types": [
-        "./src/types/index.ts"
-      ],
-      "@fixtures": [
-        "./src/fixtures/index.ts"
-      ],
-      "@hooks": [
-        "./src/hooks/index.ts"
-      ],
-      "@routes": [
-        "./src/constants/routes.ts"
-      ],
       "@utils": [
         "./src/utils/*"
       ]
